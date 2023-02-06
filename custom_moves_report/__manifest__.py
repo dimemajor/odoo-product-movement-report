@@ -3,7 +3,7 @@
     'version' : '16.0.0.0',
     'author': 'Atsevah Anthony',
     'maintainer': 'Atsevah Anthony',
-    'description': 'Shows product movement report by location'
+    'description': 'Shows product movement report by location',
     'summary': 'Product movement report',
     'category': 'Warehouse',
     'depends' : ['base', 'stock'],
